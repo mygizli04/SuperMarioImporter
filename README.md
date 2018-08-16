@@ -8,8 +8,6 @@ The purpose of the tool is to let you extract and install Super Mario Maker leve
 How to use it?
 I tried to make it as simple as possible! First, you're greeted with a table which lists .zip files found on your Downloads folder. You have to choose the apporpiate file you want to install. For example: Let's say i want to install NSMBW 1-1 by Meggy ( Great recration btw! ) So when i launch the program it should give me an output like this :
 
-Sistem belirtilen dosyayı bulamıyor. ( Translation : System cannot found the folder specified )
-C:\Users\bero\Downloads\course000\*, Are you sure (Y/N)? Y ( This line shouldn't appear anymore )
 16.08.2018  00:18            27.630 Auto dont move.zip
 16.08.2018  00:13            34.093 Big Bingo Machine!.zip
 15.08.2018  18:39            41.125 bomb om battle feildremasterd.zip
@@ -25,7 +23,7 @@ C:\Users\bero\Downloads\course000\*, Are you sure (Y/N)? Y ( This line shouldn't
 15.08.2018  23:55            70.336 Sanctuary of Sand.zip
 Please enter the file name :
 
-So now i want to install NSMBW 1-1.zip. So i just type : NSMBW 1-1.zip ( no quotes or anything 
+So now i want to install NSMBW 1-1.zip. So i just type : NSMBW 1-1.zip ( no quotes or anything )
 
 Then the output should be :
 
@@ -46,12 +44,11 @@ Folders: 1
 Files: 5
 Size:       329736
 Compressed: 74285
-C:\Users\bero\Desktop\cemuhook_1121_0565\mlc01\usr\save\00050000\1018dc00\user\80000001\course000\*, Are you sure (Y/N)? Y ( Again, it shouldn't ask you anymore )
-C:\Users\bero\Downloads\course000\course_data.cdt
-C:\Users\bero\Downloads\course000\course_data_sub.cdt
-C:\Users\bero\Downloads\course000\sound.bwv
-C:\Users\bero\Downloads\course000\thumbnail0.tnl
-C:\Users\bero\Downloads\course000\thumbnail1.tnl
+C:\Users\username\Downloads\course000\course_data.cdt
+C:\Users\username\Downloads\course000\course_data_sub.cdt
+C:\Users\username\Downloads\course000\sound.bwv
+C:\Users\username\Downloads\course000\thumbnail0.tnl
+C:\Users\username\Downloads\course000\thumbnail1.tnl
         5 file(s) copied.
 Press any key to continue . . .
 
