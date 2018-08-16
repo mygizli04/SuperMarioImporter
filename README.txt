@@ -1,4 +1,3 @@
-# SuperMarioImporter
 
 Hello. It's one of the first times i'm using github so bear with me :P. So let's start. 
 
