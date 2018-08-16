@@ -24,6 +24,3 @@ rmdir /Q "%installation%\mlc01\usr\save\00050000\1018dc00\user\80000001\course00
 copy "%SearchLocation%\course000" "%installation%\mlc01\usr\save\00050000\1018dc00\user\80000001\course000"
 PAUSE
 exit
-
-:NOCOURSE000
-
